@@ -1,0 +1,11 @@
+Estructura de la fuente de datos:
+Hemos tomado muestras de datos pequeñas de los Datos de muestras de vacunación frente al covid 19 en el departamento de arequipa con ayuda de Excel y de ahí lo hemos convertido de Excel a fomato csv para asi poderusar losdatos de manera mas como en Python
+Donde hemos usa el id  de ipython
+Usando librerías como:
+Ipython
+Ipython notebook
+Matplotlib
+Seaborn
+Sklearn
+pri
+Pandas
